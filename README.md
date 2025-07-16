@@ -50,6 +50,7 @@ Microsoft – Data Analyst Career Path
  Accenture – Data Processing & Visualization (Level-2: AI Ready to AI Ascend)
 
  Microsoft SQL Server – Querying and Database Management
+ ## Forage
  
  🏢 Tata Group – Data Analytics Program
 
