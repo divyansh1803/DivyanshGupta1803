@@ -1,9 +1,9 @@
-👋 Hello! I'm Divyansh Gupta
+## 👋 Hello! I'm Divyansh Gupta
 🎓 I’m a final-year B.Tech Computer Science student at Amity University, Uttar Pradesh, with a current CGPA of 7.8. Over the course of my academic journey, I’ve developed a strong interest in the field of Data Analytics and enjoy exploring how data can drive smarter decisions.
 
 💡 I’m particularly fascinated by how data, when properly collected, cleaned, and visualized, can reveal patterns and solve real-world problems. My focus is on using analytical tools and technologies to make raw data meaningful.
 
-🔧 Tools & Technologies I Use:
+## 🔧 Tools & Technologies I Use:
 Power BI – For interactive dashboards, data modeling, and visual reports
 
 Microsoft Excel – For data cleaning, statistical functions, pivot tables, and charts
@@ -12,7 +12,7 @@ SQL – For querying, managing, and extracting data from relational databases
 
 (Currently learning Python for Data Analysis and Pandas for deeper insights)
 
-📈 My Interests:
+## 📈 My Interests:
 Business Intelligence and Reporting
 
 Data Cleaning and Preparation
@@ -23,7 +23,7 @@ Performance Dashboards and KPIs
 
 SQL-based analytics and database management
 
-📜 Certifications 
+## 📜 Certifications 
 
 Cisco – Introduction to Data Science
 
@@ -56,7 +56,7 @@ Microsoft – Data Analyst Career Path
 🧮 Deloitte – Technology Consulting Virtual Internship
 
 ☁️ AWS – Architecture and Solution Analysis Program
-🛠️ Technical Skils:-
+## 🛠️ Technical Skils:-
 Power BI – Dashboards, KPI reports, data modeling
 
 Excel – Pivot tables, VLOOKUP, formulas, data analysis
@@ -75,7 +75,7 @@ Networking Concepts – Protocols, routing, and internet technologies
 
 Google Analytics – Web traffic & performance insights
 
-📚 Areas of Interest
+## 📚 Areas of Interest
 Data Analytics & Visualization
 
 Business Intelligence & Decision Support
