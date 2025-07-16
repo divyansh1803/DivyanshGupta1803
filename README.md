@@ -4,14 +4,24 @@
 💡 I’m particularly fascinated by how data, when properly collected, cleaned, and visualized, can reveal patterns and solve real-world problems. My focus is on using analytical tools and technologies to make raw data meaningful.
 
 ## 🔧 Tools & Technologies I Use:
-Power BI – For interactive dashboards, data modeling, and visual reports
+Power BI – Dashboards, KPI reports, data modeling
+Tableau is a leading data visualization and business intelligence (BI) 
 
-Microsoft Excel – For data cleaning, statistical functions, pivot tables, and charts
+Excel – Pivot tables, VLOOKUP, formulas, data analysis
 
-SQL – For querying, managing, and extracting data from relational databases
+SQL / MS SQL Server – Queries, joins, filtering, database management
 
-(Currently learning Python for Data Analysis and Pandas for deeper insights)
+Python – Basics of data analysis with NumPy and Pandas
 
+C++ – Programming fundamentals and logic building
+
+GitHub – Version control, repositories, project documentation
+
+AWS – Cloud fundamentals, architecture, services
+
+Networking Concepts – Protocols, routing, and internet technologies
+
+Google Analytics – Web traffic & performance insights
 ## 📈 My Interests:
 Business Intelligence and Reporting
 
