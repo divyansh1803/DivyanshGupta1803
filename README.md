@@ -22,6 +22,7 @@ Data Visualization and Storytelling
 Performance Dashboards and KPIs
 
 SQL-based analytics and database management
+
 📜 Certifications 
 
 Cisco – Introduction to Data Science
